@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "A React and Nivo.js combo Application with Bootstrap UI Theming",
   "private": true,
+  "homepage": "https://github.com/Prince7195/jsx-nivo-charts",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "nivo": "^0.31.0",

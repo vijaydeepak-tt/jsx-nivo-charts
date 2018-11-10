@@ -6,7 +6,7 @@ import "./index.css";
 import registerServiceWorker from "./registerServiceWorker";
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/jsx-nivo-charts">
     <App />
   </BrowserRouter>,
   document.getElementById("root") as HTMLElement
