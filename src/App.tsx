@@ -15,11 +15,6 @@ class App extends React.Component {
           <NavBar />
           <div className="container">
             <Route path="/" exact={true} component={HomeComponent} />
-            <Route
-              path="/jsx-nivo-charts"
-              exact={true}
-              component={HomeComponent}
-            />
             <Route path="/bar-chart" exact={true} component={BarChart} />
             <Route path="/pie-chart" exact={true} component={PieChart} />
             <Route path="/line-chart" exact={true} component={LineChart} />

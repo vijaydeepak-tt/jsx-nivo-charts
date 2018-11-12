@@ -5,6 +5,9 @@
   "private": true,
   "homepage": "https://prince7195.github.io/jsx-nivo-charts/",
   "dependencies": {
+    "@nivo/bar": "^0.51.0",
+    "@nivo/line": "^0.51.0",
+    "@nivo/pie": "^0.51.0",
     "bootstrap": "^4.1.3",
     "nivo": "^0.31.0",
     "react": "^16.6.1",

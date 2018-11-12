@@ -25,7 +25,7 @@ const HomeComponent = () => {
               alt="Pie Chart"
             />
             <div className="card-body">
-              <h3>Pie Chart</h3>
+              <h3>Pie/Doughnut Chart</h3>
               <Link to="/pie-chart">Show Me</Link>
             </div>
           </div>
